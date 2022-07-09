@@ -4,8 +4,6 @@
 
 # A simple meth delivery job for qbcore
 
-Discord - https://discord.gg/XPuqBVtyqX
-
 
 ## Please note
 
