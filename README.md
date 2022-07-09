@@ -1,7 +1,5 @@
 # qb-methdelivery
 
-#still a WIP
-
 # A simple meth delivery job for qbcore
 
 
